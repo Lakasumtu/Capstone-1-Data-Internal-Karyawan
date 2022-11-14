@@ -140,7 +140,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 Yoshiando - [@yoshibutler]([https://twitter.com/yoshibutler]) - yoshiandos@gmail.com
 
-Project Link: [https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan](https://github.com/Lakasumtu/Capstone-1-Data-Internal-Karyawan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
