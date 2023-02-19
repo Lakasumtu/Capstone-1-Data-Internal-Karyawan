@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">Capstone 1 - Data Internal Karyawan</h3>
+<h3 align="center">Data Internal Karyawan</h3>
 
   <p align="center">
     Sebuah program sederhana untuk melihat dan mengubah data internal karyawan perusahaan
@@ -34,9 +34,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-Project ini merupakan sebuah syarat dalam menyelesaikan modul 1 dari program bootcamp di Purwadhika.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
