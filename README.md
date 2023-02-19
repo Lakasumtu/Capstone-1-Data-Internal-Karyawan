@@ -53,9 +53,23 @@ Project ini merupakan sebuah syarat dalam menyelesaikan modul 1 dari program boo
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Dalam program ini terdapat beberapa contoh data karyawan yang telah terinput sejak awal (by default).
-User dapat menghapus data awal dengan fitur yang sudah tersedia.
+# Employee Management System
 
+This program is a simple employee management system that allows users to update, input, delete, and display employee data for a company. It is designed to be easy to use and customizable, with a user-friendly interface that makes it simple to manage employee information.
+
+## Features
+
+- Input employee data: Users can input employee data, including name, position, department, and salary.
+
+- Update employee data: Users can update existing employee data, including changing employee positions, departments, and salaries.
+
+- Delete employee data: Users can delete employee data for employees who have left the company or are no longer needed.
+
+- Display employee data: Users can display employee data in a table format, sorted by name or salary.
+
+## Installation
+
+To run this program, you will need Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/
 
 
 <!-- USAGE EXAMPLES -->
