@@ -72,17 +72,6 @@ This program is a simple employee management system that allows users to update,
 To run this program, you will need Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Dalam program ini terdapat 5 menu utama yaitu:
-1. Menampilkan data
-2. Menambah data
-3. Mengubah data
-4. Menghapus data
-5. Keluar dari program
-
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
